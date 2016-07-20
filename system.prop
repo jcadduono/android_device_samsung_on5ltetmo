@@ -1,0 +1,8 @@
+ro.boot.bootdevice=13540000.dwmmc0
+ro.boot.selinux=permissive
+ro.chipname=exynos3475
+ro.arch=exynos3475
+ro.lcd_min_brightness=0
+ro.lcd_brightness=162
+ro.sf.lcd_density=213
+persist.sys.usb.config=mtp,adb
